@@ -1,0 +1,6 @@
+---
+title: My Hobbies
+layout: default
+---
+
+Arduino Hacking, Astrophysics, Particle Physics, Breakthrough Technologies, Online Gaming, Soccer, Cricket, Fitness

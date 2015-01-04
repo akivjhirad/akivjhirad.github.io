@@ -1,2 +1,0 @@
-akivjhirad.github.io
-====================
