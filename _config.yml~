@@ -1,0 +1,9 @@
+name: "Akiv Jhirad"
+description: ""
+
+url: "akivjhirad.me"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
